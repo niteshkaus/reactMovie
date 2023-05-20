@@ -1,0 +1,44 @@
+[
+    {
+        "id": 101,
+        "title": "Movie-1",
+        "description": "This is test description",
+        "rating": 4.5,
+        "release_date": "20-Aug-2020"
+    },
+    {
+        "id": 102,
+        "title": "Movie-2",
+        "description": "This is test description",
+        "rating": 3.5,
+        "release_date": "20-Sep-2020"
+    },
+    {
+        "id": 103,
+        "title": "Movie-3",
+        "description": "This is test description",
+        "rating": 4.5,
+        "release_date": "20-Nov-2020"
+    },
+    {
+        "id": 104,
+        "title": "Movie-4",
+        "description": "This is test description",
+        "rating": 4.5,
+        "release_date": "20-Aug-2020"
+    },
+    {
+        "id": 105,
+        "title": "Movie-5",
+        "description": "This is test description",
+        "rating": 4.5,
+        "release_date": "20-Aug-2020"
+    },
+    {
+        "id": 106,
+        "title": "Movie-6",
+        "description": "This is test description",
+        "rating": 4.5,
+        "release_date": "20-Aug-2020"
+    }
+]
